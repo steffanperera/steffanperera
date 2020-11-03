@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<img src="https://img.icons8.com/material-outlined/48/000000/instagram-new.png"/>
+
+  other gif - "src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif"
 
 -->
 
@@ -41,8 +42,9 @@ Here are some ideas to get you started:
     s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r
     &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
   </h3>
+  <br><br>
   <p align="center">
-    <img height="200 "src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif">
+    <img height="500" "https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
   </p>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
   <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
