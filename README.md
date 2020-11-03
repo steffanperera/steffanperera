@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div>
 <br>
 
-## <h3>s k i l l s 🔥</h3>
+ <h3>s k i l l s 🔥</h3>
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
