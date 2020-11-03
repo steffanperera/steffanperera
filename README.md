@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<img src="https://img.icons8.com/windows/64/000000/dribbble.png"/>
+<img src="https://img.icons8.com/windows/96/000000/instagram-new.png"/>
 
 -->
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/windows/48/000000/instagram-new.png">
+    <img height="30" src="https://img.icons8.com/windows/96/000000/instagram-new.png">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/steffanperera">
