@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<img src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/windows/64/000000/dribbble.png"/>
 
 -->
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/fluent-systems-filled/48/000000/dribbble.png">
+    <img height="30" src="https://img.icons8.com/windows/64/000000/dribbble.png">
   </a>
     &nbsp;&nbsp;&nbsp;
 </p>
