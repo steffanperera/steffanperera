@@ -51,17 +51,13 @@ Here are some ideas to get you started:
     d e v e l o p e r&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;d e s i g n e r
   </h4>
   <h5 style="text-align:center">🌺 🌿</h5>
-  <p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Made_With-Love-informational?style=for-the-badge&logo=heart&logoColor=white&color=C13B3A&labelColor=EA4560&logoWidth=40&logoHeight=20"
-            alt="UwU"></a>
-  </p>
+  <br>
 </div>
 
 <div align="center">
 <br>
 
-## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> T O O L S &nbsp;  & &nbsp;  T E C H 
+##skills
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
