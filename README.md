@@ -54,8 +54,6 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<div>
-
 ## <h3>s k i l l s</h3>
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
@@ -70,4 +68,3 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
   
 <br>
-</div>
