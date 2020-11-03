@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/metro/52/000000/instagram-new.png">
+    <img height="25" src="https://img.icons8.com/metro/52/000000/instagram-new.png">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/steffanperera">
