@@ -1,7 +1,6 @@
 <link href="https://allfont.net/allfont.css?fonts=electroharmonix" rel="stylesheet" type="text/css" />
 
 <!--
-**Szask1a/Szask1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<img src="https://img.icons8.com/windows/48/000000/instagram-new.png"/>
+<img src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png"/>
 
 -->
 
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
-    <img src="">
+    <img src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
