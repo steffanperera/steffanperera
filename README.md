@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
-    <img src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png">
+    <img height="30" src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png">
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
