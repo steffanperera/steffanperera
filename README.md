@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">s&nbsp;t&nbsp;e&nbsp;f&nbsp;f&nbsp;a&nbsp;n&nbsp;p&nbsp;e&nbsp;r&nbsp;er &nbsp;a</h2>
+  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">steffan</h2>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
