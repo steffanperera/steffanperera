@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <h3 style="text-align:center; font-family: arial;">s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p &nbsp;&nbsp;&nbsp;e &nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a</h3>
+  <h3 style="text-align:center; font-family: arial;">
+    s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r
+    &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
+  </h3>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
