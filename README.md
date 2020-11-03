@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-<-- code -->
+<!-- code -->
 
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 <div>
   <h3>s k i l l s</h3>
-  
 ##
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
