@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <div>
   
 ## <h3>s k i l l s</h3>
+  ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
@@ -67,8 +68,6 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Unreal-Engine-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
-  ![](https://forthebadge.com/images/badges/gluten-free.svg)
   
 <br>
 </div>
