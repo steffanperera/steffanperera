@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <a href="https://twitter.com/sask1aaa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/steffanperera">
+    <img height="30" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.behance.net/steffanperera"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_77-behance_104426.svg"></a>&nbsp;
   <a href="https://dribbble.com/ab1sheaka"><img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg"></a>&nbsp;
