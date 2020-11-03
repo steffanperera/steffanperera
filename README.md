@@ -34,11 +34,10 @@ Here are some ideas to get you started:
   <a href="https://dribbble.com/steffanperera">
     <img height="28" src="https://img.icons8.com/windows/64/000000/dribbble.png">
   </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
-  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">A B I &nbsp;&nbsp; K A R U N A R A T N E </h2>
+  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">s t e f f a n p e r e r a</h2>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
