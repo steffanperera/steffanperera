@@ -53,10 +53,10 @@ Here are some ideas to get you started:
     d e v e l o p e r&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;d e s i g n e r
   </h4>
   <h5 style="text-align:center">🌺 🌿</h5>
-  <br>
 </div>
 
 <div>
+<br>
   
   ## <h3>• s k i l l s</h3>
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
