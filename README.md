@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">s t e f f a n p e r e r a</h2>
+  <h3 style="text-align:center; font-family: arial;">s t e f f a n p e r e r a</h3>
   <p align="center">
     <img src="https://media.giphy.com/media/dUgCSL3T36IAKDcclh/giphy.gif">
   </p>
