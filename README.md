@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
     <img height="30" src="https://img.icons8.com/small/32/000000/twitter.png">
-  </a>&nbsp;&nbsp;
+  </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
     <img height="30" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png">
-  </a>&nbsp;&nbsp;
+  </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/steffanperera">
     <img height="30" src="https://img.icons8.com/windows/32/000000/behance.png">
-  </a>&nbsp;&nbsp;
+  </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/steffanperera">
     <img height="30" src="https://img.icons8.com/fluent-systems-filled/48/000000/dribbble.png">
-  </a>&nbsp;&nbsp;
+  </a>
+    &nbsp;&nbsp;&nbsp;
 </p>
