@@ -54,11 +54,9 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<div align="center">
+<div>
   <br>
-  <h3 style="text-align:center">
-    s k i l l s
-  </h3>
+  <h3>s k i l l s</h3>
 
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
