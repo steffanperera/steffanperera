@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<img src="https://img.icons8.com/metro/52/000000/instagram-new.png"/>
+<img src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram-new.png"/>
 
 -->
 
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
     <img height="30" src="https://img.icons8.com/android/48/000000/twitter.png">
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/metro/52/000000/instagram-new.png">
-  </a>
+    <img height="30" src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram-new.png">
+  </a>&nbsp;&nbsp;
   <a href="https://www.behance.net/steffanperera">
     <img height="30" src="https://img.icons8.com/windows/32/000000/behance-squared--v2.png">
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://dribbble.com/steffanperera">
     <img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg">
-  </a>&nbsp;
+  </a>&nbsp;&nbsp;
 </p>
