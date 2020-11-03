@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </h3>
   <br><br>
   <p align="center">
-    <img height="500" "https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
+    <img height="500" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
   </p>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
   <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
