@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img height="400" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
   </p>
   <h4 style="text-align:center">
-    d e v e l o p e r / d e s i g n e r
+    d e v e l o p e r&nbsp;&nbsp;/&nbsp;&nbsp;d e s i g n e r
   </h4>
   <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
   <p align="center">
