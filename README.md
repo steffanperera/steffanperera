@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - user space -
-<a href='https://dryicons.com/free-icons/instagram'> Icon by Dryicons </a>
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+<img src="https://img.icons8.com/metro/52/000000/instagram-new.png"/>
 
 -->
 
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+    <img height="30" src="https://img.icons8.com/android/48/000000/twitter.png">
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/steffanperera">
-    <img height="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png">
+    <img height="30" src="https://img.icons8.com/metro/52/000000/instagram-new.png">
   </a>
   <a href="https://www.behance.net/steffanperera">
-    <img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_77-behance_104426.svg">
+    <img height="30" src="https://img.icons8.com/windows/32/000000/behance-squared--v2.png">
   </a>&nbsp;
   <a href="https://dribbble.com/steffanperera">
     <img height="30" src="https://github.com/Szask1a/portfolio/blob/master/iconfinder_dribble_313487.svg">
