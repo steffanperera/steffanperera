@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 - user space -
 
-  other gif - "src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif"
+  gif 1 - src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif"
+  gif 2 - src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif"
 
 -->
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
   </h3>
   <br><br>
   <p align="center">
-    <img height="400" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
+    <img height="400" src="https://media.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif">
   </p>
   <h5 style="text-align:center">D E S I G N E R ➕ D E V E L O P E R ✖️ </h5>
   <h5 style="text-align:center">J A P A N E S E &nbsp; E N T H U S I A S T </h5>
