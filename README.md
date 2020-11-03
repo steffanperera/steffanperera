@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 
 -->
 
-<div align="center">
-  <h3 style="text-align:center; font-family: arial;">
-    s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r
-    &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
-  </h3>
-  <p align="center"> 
+<-- code -->
+
+<p align="center"> 
   <a href="https://twitter.com/steffanperera">
     <img height="28" src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png">
   </a>
@@ -42,6 +39,12 @@ Here are some ideas to get you started:
     <img height="28" src="https://img.icons8.com/windows/64/000000/dribbble.png">
   </a>
 </p>
+
+<div align="center">
+  <h3 style="text-align:center; font-family: arial;">
+    s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r
+    &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
+  </h3>
   <br>
   <p align="center">
     <img height="400" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
