@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <div>
   
 ## <h4>s k i l l s 🔥</h4>
-  ![](https://img.shields.io/badge/Flutter-Development-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/application-development-2bbc8a?style=for-the-badge)
   ![](https://img.shields.io/badge/Website-Development-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/UI/UX-Design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
  <br>
