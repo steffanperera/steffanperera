@@ -56,13 +56,15 @@ Here are some ideas to get you started:
   <h5 style="text-align:center">🌺 🌿</h5>
 </div>
 
-<div>
-  
+<div align="center"> 
 <br><br><br>
 
-[![Abi's github stats](https://github-readme-stats.vercel.app/api?username=Szask1a&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/Szask1a/github-readme-stats)
+[![steffanperera's github stats](https://github-readme-stats.vercel.app/api?username=steffanperera&theme=material-palenight&show_icons=true&count_private=true?)](https://github.com/steffanperera/github-readme-stats)
 
 <br>
+</div>
+
+<div>
   
 ## <h4>s k i l l s 🔥</h4>
   ![](https://img.shields.io/badge/Flutter-Development-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
