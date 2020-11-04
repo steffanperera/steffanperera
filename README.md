@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 <div>
   
 ## <h4>s k i l l s 🔥</h4>
-  ![](https://img.shields.io/badge/application-development-2bbc8a?style=for-the-badge)
+  ![](https://img.shields.io/badge/mobile-development-2bbc8a?style=for-the-badge)
   ![](https://img.shields.io/badge/web-development-2bbc8a?style=for-the-badge)
-  ![](https://img.shields.io/badge/UI/UX-Design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/UI/UX-design-2bbc8a?style=for-the-badge)
  <br>
  
 ## <h4>t o o l s 💎</h4>
