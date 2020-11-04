@@ -80,3 +80,8 @@ Here are some ideas to get you started:
   
  <br>
 </div>
+
+<div>
+[![steffanperera's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=steffanperera&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/steffanperera/github-readme-stats)
+<br><br>
+</div>
