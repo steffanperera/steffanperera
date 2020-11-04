@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/adobe-creativecloud-2bbc8a?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white&color=2bbc8a)
   
  <br>
 </div>
