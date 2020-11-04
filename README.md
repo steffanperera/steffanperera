@@ -60,9 +60,9 @@ Here are some ideas to get you started:
  <br><br><br>
   
 ## <h3>s k i l l s 🔥</h3>
-  ![](https://img.shields.io/badge/application-development-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/website-development-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/ui/ux-design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Flutter-Development-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Website-Development-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/UI/UX-Design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
  <br>
  
 ## <h3>t o o l s 💎</h3>
