@@ -46,6 +46,7 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
   </h3>
   <br>
+  <br>
   <p align="center">
     <img height="400" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
   </p>
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
+ <br>
   
 ## <h3>s k i l l s</h3>
   ![](https://img.shields.io/badge/ui/ux-design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
@@ -69,5 +71,5 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   
-<br>
+ <br>
 </div>
