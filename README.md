@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 <br><br><br>
 
-[![steffanperera's github stats](https://github-readme-stats.vercel.app/api?username=steffanperera&theme=vue-dark&show_icons=true&count_private=true?)](https://github.com/steffanperera/github-readme-stats)
+[![steffanperera's github stats](https://github-readme-stats.vercel.app/api?username=steffanperera&theme=vue&show_icons=true&count_private=true?)](https://github.com/steffanperera/github-readme-stats)
 
 <br>
 </div>
