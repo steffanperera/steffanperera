@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h5 style="text-align:center">🌺 🌿</h5>
+  <h5 style="text-align:center">• • •</h5>
 </div>
