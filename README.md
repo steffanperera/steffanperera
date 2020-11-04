@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <p align="center">
     <img height="400" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif">
   </p>
+  <br>
   <h4 style="text-align:center">
     d e v e l o p e r&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;d e s i g n e r
   </h4>
