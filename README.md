@@ -60,6 +60,7 @@ Here are some ideas to get you started:
  <br><br><br>
   
 ## <h3>s k i l l s</h3>
+  ![](https://img.shields.io/badge/web-development-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/ui/ux-design-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
@@ -68,7 +69,6 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Git-Bash-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Unity-Engine-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Unreal-Engine-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   
  <br>
