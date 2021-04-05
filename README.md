@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <!-- code -->
 
+<!--
 <p align="center"> 
   <a href="https://twitter.com/steffanperera">
     <img height="28" src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png">
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
     <img height="28" src="https://img.icons8.com/windows/64/000000/dribbble.png">
   </a>
 </p>
+-->
 
 <div align="center">
   <h3 style="text-align:center; font-family: arial;">
