@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </p>
   <br>
   <h4 style="text-align:center">
-    d e v e l o p e r&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;d e s i g n e r
+    d e s i g n e r&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;d e v e l o p e r
   </h4>
   <h5 style="text-align:center">🌺 🌿</h5>
 </div>
