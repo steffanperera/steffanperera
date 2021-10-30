@@ -1,4 +1,4 @@
-<link href="https://allfont.net/allfont.css?fonts=electroharmonix" rel="stylesheet" type="text/css" />
+<!-- <link href="https://allfont.net/allfont.css?fonts=electroharmonix" rel="stylesheet" type="text/css" />
 
 <!--
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <h3 style="text-align:center; font-family: arial;">
     s&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;f&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp;n&nbsp;&nbsp;&nbsp;p&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r
     &nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;r&nbsp;&nbsp;&nbsp;a
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
  <br>
 </div>
 
-<div align="center">
+<div align="center"> --> -->
   <h5 style="text-align:center">
     •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•
   </h5>
