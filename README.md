@@ -1,1 +1,1 @@
-How do you do, fellow devs? ✌️
+How do you do, fellow devs? 👋
