@@ -1,2 +1,2 @@
-hello stalker 👋
+hello 👋
 </br>
