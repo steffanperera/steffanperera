@@ -1,3 +1,3 @@
-AAAA STRESSS! 😫
+aaaa stresss! 😫
 
 <!-- hello stalker! 👋 -->
