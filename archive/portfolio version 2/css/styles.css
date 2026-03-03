@@ -1,0 +1,270 @@
+@font-face {
+  font-family: "NewYork";
+  src: url("../assets/fonts/NewYork.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../assets/fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("../assets/fonts/Montserrat-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  src: url("../assets/fonts/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../assets/fonts/Montserrat-Bold.ttf");
+}
+
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 100%;
+  margin: 0;
+  scroll-behavior: smooth;
+  font-family: Montserrat-Regular;
+  font-size: 12px;
+  background-color: #f5f4ef;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+::selection {
+  color: none;
+  background: none;
+}
+
+p {
+  font-family: Montserrat-Medium;
+  letter-spacing: 4px;
+}
+
+/* nav-bar */
+header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+nav {
+  float: none;
+  padding: 20px 2% 20px 2%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+}
+
+nav > p {
+  font-family: Montserrat-Medium;
+  font-size: 12px;
+}
+
+a,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.twitter {
+  width: 20px;
+  height: 20px;
+  -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+  filter: invert(100%);
+}
+
+/* main */
+main {
+  margin: 2%;
+}
+
+/* section-1 */
+.section-1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-1 > p {
+  font-family: NewYork;
+  font-size: 70px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width: 1100px) {
+  .section-1 > p {
+    font-family: NewYork;
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .section-1 > p {
+    font-family: NewYork;
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .section-1 > p {
+    font-family: NewYork;
+    font-size: 26px;
+  }
+}
+
+.section-2 > .title {
+  font-family: Montserrat-Medium;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+.section-2 > .segment {
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.segment-image {
+  height: 800px;
+  width: 50%;
+  object-fit: cover;
+}
+
+.segment-content {
+  height: 800px;
+  width: 50%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+}
+
+/* max-width 1000px */
+
+@media screen and (max-width: 1000px) {
+  .segment-image {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .segment-content {
+    height: 400px;
+    width: 100%;
+    flex: 1;
+    background-color: white;
+  }
+}
+
+.segment-text {
+  margin: 60px;
+}
+
+.segment-text > .title {
+  font-family: NewYork;
+  font-size: 32px;
+}
+
+.segment-description {
+  margin: 60px;
+}
+
+.segment-description > .description {
+  font-size: 14px;
+}
+
+.segment-description > a > .project-link {
+  font-size: 14px;
+}
+
+/* max-width 1000px */
+
+@media screen and (max-width: 1000px) {
+  .segment-text {
+    margin: 20px;
+  }
+
+  .segment-text > .title {
+    font-size: 24px;
+  }
+
+  .segment-description {
+    margin: 20px;
+  }
+
+  .segment-description > .description {
+    font-size: 10px;
+  }
+
+  .segment-description > a > .project-link {
+    font-size: 10px;
+  }
+}
+
+/* max-width 600px */
+
+@media screen and (max-width: 600px) {
+  .segment-text {
+    margin: 20px;
+  }
+
+  .segment-text > .title {
+    font-size: 20px;
+  }
+
+  .segment-description {
+    margin: 20px;
+  }
+
+  .segment-description > .description {
+    font-size: 10px;
+  }
+
+  .segment-description > a > .project-link {
+    font-size: 10px;
+  }
+}
+
+/* max-width 300px */
+
+@media screen and (max-width: 300px) {
+  .segment-text {
+    margin: 20px;
+  }
+
+  .segment-text > .title {
+    font-size: 14px;
+  }
+
+  .segment-description {
+    margin: 20px;
+  }
+
+  .segment-description > .description {
+    font-size: 10px;
+  }
+
+  .segment-description > a > .project-link {
+    font-size: 10px;
+  }
+}
